@@ -14,6 +14,7 @@ find_package(builtin_interfaces REQUIRED)
 set(msg_files
   "msg/Command.msg"
   "msg/FlowerInfo.msg"
+  "msg/GripTarget.msg"
 )
 
 set(srv_files
